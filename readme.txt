@@ -3,3 +3,4 @@ Git is free software.
 Git has a mutable index called stage.
 6
 This is master.
+1
