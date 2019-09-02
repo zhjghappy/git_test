@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 local master.
 test master333.
 DEV MERGE TO MASTE,MASTER DOING..
+阿萨法
